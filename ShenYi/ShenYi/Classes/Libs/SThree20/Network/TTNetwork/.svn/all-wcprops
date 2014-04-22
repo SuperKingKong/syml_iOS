@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/lanmei/!svn/ver/6/client/iphone/trunk/BaiYing/BaiYing/Classes/Libs/SThree20/Network/TTNetwork
+END
+TTURLResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/lanmei/!svn/ver/6/client/iphone/trunk/BaiYing/BaiYing/Classes/Libs/SThree20/Network/TTNetwork/TTURLResponse.h
+END
+TTRequestLoader.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/lanmei/!svn/ver/6/client/iphone/trunk/BaiYing/BaiYing/Classes/Libs/SThree20/Network/TTNetwork/TTRequestLoader.m
+END
+TTURLImageResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/lanmei/!svn/ver/6/client/iphone/trunk/BaiYing/BaiYing/Classes/Libs/SThree20/Network/TTNetwork/TTURLImageResponse.h
+END
+TTURLRequestQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/lanmei/!svn/ver/6/client/iphone/trunk/BaiYing/BaiYing/Classes/Libs/SThree20/Network/TTNetwork/TTURLRequestQueue.m
+END
+TTURLCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/lanmei/!svn/ver/6/client/iphone/trunk/BaiYing/BaiYing/Classes/Libs/SThree20/Network/TTNetwork/TTURLCache.h
+END
+TTURLImageResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/lanmei/!svn/ver/6/client/iphone/trunk/BaiYing/BaiYing/Classes/Libs/SThree20/Network/TTNetwork/TTURLImageResponse.m
+END
+TTUserInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/lanmei/!svn/ver/6/client/iphone/trunk/BaiYing/BaiYing/Classes/Libs/SThree20/Network/TTNetwork/TTUserInfo.h
+END
+TTURLCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/lanmei/!svn/ver/6/client/iphone/trunk/BaiYing/BaiYing/Classes/Libs/SThree20/Network/TTNetwork/TTURLCache.m
+END
+TTUserInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/lanmei/!svn/ver/6/client/iphone/trunk/BaiYing/BaiYing/Classes/Libs/SThree20/Network/TTNetwork/TTUserInfo.m
+END
+TTURLRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/lanmei/!svn/ver/6/client/iphone/trunk/BaiYing/BaiYing/Classes/Libs/SThree20/Network/TTNetwork/TTURLRequestDelegate.h
+END
+TTGlobalNetwork.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/lanmei/!svn/ver/6/client/iphone/trunk/BaiYing/BaiYing/Classes/Libs/SThree20/Network/TTNetwork/TTGlobalNetwork.h
+END
+TTURLDataResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/lanmei/!svn/ver/6/client/iphone/trunk/BaiYing/BaiYing/Classes/Libs/SThree20/Network/TTNetwork/TTURLDataResponse.h
+END
+TTURLRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/lanmei/!svn/ver/6/client/iphone/trunk/BaiYing/BaiYing/Classes/Libs/SThree20/Network/TTNetwork/TTURLRequest.h
+END
+TTURLRequestQueueInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/lanmei/!svn/ver/6/client/iphone/trunk/BaiYing/BaiYing/Classes/Libs/SThree20/Network/TTNetwork/TTURLRequestQueueInternal.h
+END
+TTRequestLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/lanmei/!svn/ver/6/client/iphone/trunk/BaiYing/BaiYing/Classes/Libs/SThree20/Network/TTNetwork/TTRequestLoader.h
+END
+TTURLRequestCachePolicy.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/lanmei/!svn/ver/6/client/iphone/trunk/BaiYing/BaiYing/Classes/Libs/SThree20/Network/TTNetwork/TTURLRequestCachePolicy.h
+END
+TTGlobalNetwork.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/lanmei/!svn/ver/6/client/iphone/trunk/BaiYing/BaiYing/Classes/Libs/SThree20/Network/TTNetwork/TTGlobalNetwork.m
+END
+TTURLRequestQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/lanmei/!svn/ver/6/client/iphone/trunk/BaiYing/BaiYing/Classes/Libs/SThree20/Network/TTNetwork/TTURLRequestQueue.h
+END
+TTURLRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/lanmei/!svn/ver/6/client/iphone/trunk/BaiYing/BaiYing/Classes/Libs/SThree20/Network/TTNetwork/TTURLRequest.m
+END
+TTURLDataResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/lanmei/!svn/ver/6/client/iphone/trunk/BaiYing/BaiYing/Classes/Libs/SThree20/Network/TTNetwork/TTURLDataResponse.m
+END
