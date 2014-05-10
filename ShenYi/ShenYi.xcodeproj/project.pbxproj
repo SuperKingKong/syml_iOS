@@ -51,6 +51,13 @@
 		69E0755E190651C300576EB7 /* GTMBase64.m in Sources */ = {isa = PBXBuildFile; fileRef = 69E0755D190651C300576EB7 /* GTMBase64.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		69E0756519065AEE00576EB7 /* NetWorkManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 69E0756219065AEE00576EB7 /* NetWorkManager.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		69E0756619065AEE00576EB7 /* SReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 69E0756419065AEE00576EB7 /* SReachability.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		BE4D7FC3191E24B000967A5A /* UIImageAdditionsEx.m in Sources */ = {isa = PBXBuildFile; fileRef = BE4D7FC2191E24B000967A5A /* UIImageAdditionsEx.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		BE5E1746191E1C0000B70324 /* BYChangePicActionSheet.m in Sources */ = {isa = PBXBuildFile; fileRef = BE5E173A191E1C0000B70324 /* BYChangePicActionSheet.m */; };
+		BE5E1747191E1C0000B70324 /* BYChangePicCommand.m in Sources */ = {isa = PBXBuildFile; fileRef = BE5E173D191E1C0000B70324 /* BYChangePicCommand.m */; };
+		BE5E1748191E1C0000B70324 /* BYChangePicReceiver.m in Sources */ = {isa = PBXBuildFile; fileRef = BE5E173F191E1C0000B70324 /* BYChangePicReceiver.m */; };
+		BE5E1749191E1C0000B70324 /* BYCommand.m in Sources */ = {isa = PBXBuildFile; fileRef = BE5E1741191E1C0000B70324 /* BYCommand.m */; };
+		BE5E174A191E1C0000B70324 /* BYPickImageCommand.m in Sources */ = {isa = PBXBuildFile; fileRef = BE5E1743191E1C0000B70324 /* BYPickImageCommand.m */; };
+		BE5E174B191E1C0000B70324 /* BYPickImageReceiver.m in Sources */ = {isa = PBXBuildFile; fileRef = BE5E1745191E1C0000B70324 /* BYPickImageReceiver.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -151,6 +158,20 @@
 		69E0756219065AEE00576EB7 /* NetWorkManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NetWorkManager.m; sourceTree = "<group>"; };
 		69E0756319065AEE00576EB7 /* SReachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SReachability.h; sourceTree = "<group>"; };
 		69E0756419065AEE00576EB7 /* SReachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SReachability.m; sourceTree = "<group>"; };
+		BE4D7FC1191E24B000967A5A /* UIImageAdditionsEx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIImageAdditionsEx.h; sourceTree = "<group>"; };
+		BE4D7FC2191E24B000967A5A /* UIImageAdditionsEx.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIImageAdditionsEx.m; sourceTree = "<group>"; };
+		BE5E1739191E1C0000B70324 /* BYChangePicActionSheet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BYChangePicActionSheet.h; sourceTree = "<group>"; };
+		BE5E173A191E1C0000B70324 /* BYChangePicActionSheet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BYChangePicActionSheet.m; sourceTree = "<group>"; };
+		BE5E173C191E1C0000B70324 /* BYChangePicCommand.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BYChangePicCommand.h; sourceTree = "<group>"; };
+		BE5E173D191E1C0000B70324 /* BYChangePicCommand.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BYChangePicCommand.m; sourceTree = "<group>"; };
+		BE5E173E191E1C0000B70324 /* BYChangePicReceiver.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BYChangePicReceiver.h; sourceTree = "<group>"; };
+		BE5E173F191E1C0000B70324 /* BYChangePicReceiver.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BYChangePicReceiver.m; sourceTree = "<group>"; };
+		BE5E1740191E1C0000B70324 /* BYCommand.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BYCommand.h; sourceTree = "<group>"; };
+		BE5E1741191E1C0000B70324 /* BYCommand.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BYCommand.m; sourceTree = "<group>"; };
+		BE5E1742191E1C0000B70324 /* BYPickImageCommand.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BYPickImageCommand.h; sourceTree = "<group>"; };
+		BE5E1743191E1C0000B70324 /* BYPickImageCommand.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BYPickImageCommand.m; sourceTree = "<group>"; };
+		BE5E1744191E1C0000B70324 /* BYPickImageReceiver.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BYPickImageReceiver.h; sourceTree = "<group>"; };
+		BE5E1745191E1C0000B70324 /* BYPickImageReceiver.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BYPickImageReceiver.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -254,6 +275,7 @@
 		69E074E91906473800576EB7 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				BE5E1738191E1C0000B70324 /* Patterns */,
 				69E074EA1906473800576EB7 /* Common */,
 				69E074EB1906473800576EB7 /* Controllers */,
 				69E074EC1906473800576EB7 /* DataSources */,
@@ -266,6 +288,8 @@
 		69E074EA1906473800576EB7 /* Common */ = {
 			isa = PBXGroup;
 			children = (
+				BE4D7FC1191E24B000967A5A /* UIImageAdditionsEx.h */,
+				BE4D7FC2191E24B000967A5A /* UIImageAdditionsEx.m */,
 				69E0755C190651C300576EB7 /* GTMBase64.h */,
 				69E0755D190651C300576EB7 /* GTMBase64.m */,
 				69E0755219064C6800576EB7 /* Util.h */,
@@ -463,6 +487,33 @@
 			path = NetworkStatus;
 			sourceTree = "<group>";
 		};
+		BE5E1738191E1C0000B70324 /* Patterns */ = {
+			isa = PBXGroup;
+			children = (
+				BE5E1739191E1C0000B70324 /* BYChangePicActionSheet.h */,
+				BE5E173A191E1C0000B70324 /* BYChangePicActionSheet.m */,
+				BE5E173B191E1C0000B70324 /* Command */,
+			);
+			path = Patterns;
+			sourceTree = "<group>";
+		};
+		BE5E173B191E1C0000B70324 /* Command */ = {
+			isa = PBXGroup;
+			children = (
+				BE5E173C191E1C0000B70324 /* BYChangePicCommand.h */,
+				BE5E173D191E1C0000B70324 /* BYChangePicCommand.m */,
+				BE5E173E191E1C0000B70324 /* BYChangePicReceiver.h */,
+				BE5E173F191E1C0000B70324 /* BYChangePicReceiver.m */,
+				BE5E1740191E1C0000B70324 /* BYCommand.h */,
+				BE5E1741191E1C0000B70324 /* BYCommand.m */,
+				BE5E1742191E1C0000B70324 /* BYPickImageCommand.h */,
+				BE5E1743191E1C0000B70324 /* BYPickImageCommand.m */,
+				BE5E1744191E1C0000B70324 /* BYPickImageReceiver.h */,
+				BE5E1745191E1C0000B70324 /* BYPickImageReceiver.m */,
+			);
+			path = Command;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -570,6 +621,8 @@
 				69E0754D190648DC00576EB7 /* TTStyledNode.m in Sources */,
 				69E0756619065AEE00576EB7 /* SReachability.m in Sources */,
 				69E07550190648DC00576EB7 /* TTStyledTextParser.m in Sources */,
+				BE5E1749191E1C0000B70324 /* BYCommand.m in Sources */,
+				BE5E1746191E1C0000B70324 /* BYChangePicActionSheet.m in Sources */,
 				69E0754B190648DC00576EB7 /* TTStyledFrame.m in Sources */,
 				69E0754F190648DC00576EB7 /* TTStyledTextLabel.m in Sources */,
 				69E07543190648DC00576EB7 /* TTURLRequest.m in Sources */,
@@ -582,18 +635,23 @@
 				69E0753B190648DB00576EB7 /* TTStyledNodeAdditions.m in Sources */,
 				69E0755E190651C300576EB7 /* GTMBase64.m in Sources */,
 				69E0753E190648DB00576EB7 /* TTGlobalNetwork.m in Sources */,
+				BE5E1748191E1C0000B70324 /* BYChangePicReceiver.m in Sources */,
 				69E0753D190648DB00576EB7 /* UIImageAdditions.m in Sources */,
 				69E0754E190648DC00576EB7 /* TTStyledText.m in Sources */,
 				69E0755419064C6800576EB7 /* Util.m in Sources */,
 				69E07545190648DC00576EB7 /* TTUserInfo.m in Sources */,
 				69E07544190648DC00576EB7 /* TTURLRequestQueue.m in Sources */,
+				BE5E1747191E1C0000B70324 /* BYChangePicCommand.m in Sources */,
 				69E0753C190648DB00576EB7 /* UIFontAdditions.m in Sources */,
 				69E0756519065AEE00576EB7 /* NetWorkManager.m in Sources */,
 				69E07541190648DB00576EB7 /* TTURLDataResponse.m in Sources */,
 				69E07539190648DB00576EB7 /* JSONKit.m in Sources */,
 				69E07542190648DB00576EB7 /* TTURLImageResponse.m in Sources */,
 				69E07546190648DC00576EB7 /* SThree20Extral.m in Sources */,
+				BE4D7FC3191E24B000967A5A /* UIImageAdditionsEx.m in Sources */,
+				BE5E174B191E1C0000B70324 /* BYPickImageReceiver.m in Sources */,
 				69E07547190648DC00576EB7 /* TTSpeechBubbleShape.m in Sources */,
+				BE5E174A191E1C0000B70324 /* BYPickImageCommand.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

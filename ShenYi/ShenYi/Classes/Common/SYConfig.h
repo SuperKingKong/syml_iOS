@@ -101,7 +101,9 @@ typedef enum {
 #define kNotificationSendProgress           @"sendProgress"                //顶部状态栏消息发送进度提示
 #define kNotificationPlayStateChanged       @"playStatusChanged"
 
-
+#define kACTitleCancle      @"取消"
+#define kACTitleCamera      @"拍照"
+#define kACTitlePhotoLib    @"从相册选择"
 
 
 #define kScreenHeight                       [[UIScreen mainScreen ] bounds].size.height

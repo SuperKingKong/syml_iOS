@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SYFirstViewController : UIViewController
+@interface SYFirstViewController : UIViewController<UIActionSheetDelegate,UIImagePickerControllerDelegate,UINavigationControllerDelegate>
 
 @end
